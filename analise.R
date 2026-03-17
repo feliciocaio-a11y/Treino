@@ -8,3 +8,7 @@ mean(x)
 z <- rnorm(100, mean=0, sd=1)
 hist(z, main="Histograma de z")
 summary(z)
+#esqueci de dar commit antes do push
+z <- rnorm(100, mean=0, sd=1)
+hist(z, main="Histograma de z")
+summary(z)
